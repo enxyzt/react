@@ -23,6 +23,17 @@
         "react",
         "prettier"
     ],
+    "overrides": [
+        {
+          "files": [
+            "**/*.test.js",
+            "**/*.test.jsx"
+          ],
+          "env": {
+            "jest": true
+          }
+        }
+      ],
     "rules": {
     }
 }
