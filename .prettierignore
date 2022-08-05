@@ -1,0 +1,12 @@
+.eslintrc.json
+app/node_modules
+app/.gitignore
+app/.prettierignore
+app/.prettierrc
+app/.eslintignore
+app/.eslintrc.json
+.eslintignore
+.eslintrc.json
+.gitignore
+.prettierignore
+.prettierrc
